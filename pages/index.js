@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          helloWorld.RunningOn(Next.JS).apply();
+          javier.isRunningOn();
         </h1>
 
         <p className={styles.description}>
